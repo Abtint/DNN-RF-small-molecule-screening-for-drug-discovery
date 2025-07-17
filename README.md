@@ -3,14 +3,14 @@ I developed these DNN and RF libraries for screening small molecules for oral dr
 Before using these libraries as templates, please read the Method section of our paper mentioned below in the **Citation** guideline, especially section **2.1.Activity Dataset**. 
 
 # Requirements
-numpy
-pandas
-scikit-learn
-tensorflow>=2.0,<3        
-matplotlib
-seaborn
-joblib
-padelpy
+numpy,
+pandas,
+scikit-learn,
+tensorflow>=2.0,<3,        
+matplotlib,
+seaborn,
+joblib,
+padelpy,
 jupyterlab/jupyter
 
 # License
