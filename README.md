@@ -6,12 +6,12 @@ Before using these libraries as templates, please read the Method section of our
 numpy
 pandas
 scikit-learn
-tensorflow>=2.0,<3        # TensorFlow 2.x
+tensorflow>=2.0,<3        
 matplotlib
 seaborn
 joblib
 padelpy
-jupyterlab                # or jupyter
+jupyterlab/jupyter
 
 # License
 Distributed under the MIT License (Open use is welcome) 
