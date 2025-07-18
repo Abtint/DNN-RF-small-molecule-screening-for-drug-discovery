@@ -17,4 +17,4 @@ jupyterlab/jupyter
 Distributed under the MIT License 
 
 # Citation
-If my code helps your work, please cite my paper (Tondar et al. **Virtual Screening of Small Molecules Targeting BCL2 with Machine Learning, Molecular Docking, and MD Simulation,** Biomolecules 2024, 14(5), 544; [https://doi.org/10.3390/biom14050544]).Thanks!
+Tondar et al. **Virtual Screening of Small Molecules Targeting BCL2 with Machine Learning, Molecular Docking, and MD Simulation,** Biomolecules 2024, 14(5), 544; [https://doi.org/10.3390/biom14050544]
