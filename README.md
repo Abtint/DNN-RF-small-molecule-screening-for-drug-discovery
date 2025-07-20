@@ -2,6 +2,12 @@
 I developed these DNN and RF libraries for screening small molecules for oral drug discovery. 
 Before using these libraries as templates, please read the Method section of our paper mentioned below in the **Citation** guideline, especially section **2.1.Activity Dataset**. 
 
+# Scripts in this repo
+
+DNN_Model.ipynb
+
+RF_Model.ipynb
+
 # Requirements
 numpy,
 pandas,
